@@ -1,4 +1,4 @@
-# 文件
+# 文件操作
 # 创建文件 并指定可以写入
 f = open('data.txt', 'w')
 f.write('python create\n')
