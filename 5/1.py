@@ -1,3 +1,4 @@
+import math
 # 数字类型
 # 复数
 a = complex(1, 2)
@@ -24,3 +25,10 @@ print(1 / 3)
 # 0.333333
 print(1 // 3)
 # 0
+
+# 向下取整 截断除法
+print(math.floor(2.5))
+# 2
+
+print(9 / 3, 9 // 3)
+# (3.0 3)
