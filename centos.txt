@@ -1,0 +1,1 @@
+°²×°node,npm  sudo yum install nodejs npm --enablerepo=epel
