@@ -22,3 +22,6 @@ min(1,2,3,4) #1
 max(1,2,3,4) #4
 abs(-5)  # 5 绝对值
 '{0: .2f}'.format(1/3) # 0.33
+
+import random
+print(random.choice([1,2,3,4]))
