@@ -25,3 +25,6 @@ abs(-5)  # 5 绝对值
 
 import random
 print(random.choice([1,2,3,4]))
+
+random.randint(1, 10)
+#随机从1-10取值
